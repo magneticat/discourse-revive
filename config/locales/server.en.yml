@@ -11,3 +11,6 @@ en:
     revive_topic_bottom_zone_id: 'Zone ID for bottom of the topic (728x90)'
     revive_topic_bottom_mobile_zone_id: 'Mobile zone ID for bottom of the topic (320x50)'
     revive_through_trust_level: 'Show ads to users through trust level (0 = to not logged in users only ... 4 = to all users)'
+    revive_custom_1_zone_id: 'Custom Zone 1'
+    revive_custom_2_zone_id: 'Custom Zone 2'
+    revive_custom_3_zone_id: 'Custom Zone 3'
