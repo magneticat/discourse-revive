@@ -14,3 +14,6 @@ en:
     revive_custom_1_zone_id: 'Custom Zone 1'
     revive_custom_2_zone_id: 'Custom Zone 2'
     revive_custom_3_zone_id: 'Custom Zone 3'
+    revive_show_custom_1: 'Show Custom Zone 1'
+    revive_show_custom_2: 'Show Custom Zone 2'
+    revive_show_custom_3: 'Show Custom Zone 3'
