@@ -29,6 +29,15 @@ revive_plugin:
   revive_topic_bottom_mobile_zone_id:
     client: true
     default: ''
+  revive_custom_1_zone_id:
+    client: true
+    default: ''
+  revive_custom_2_zone_id:
+    client: true
+    default: ''
+  revive_custom_3_zone_id:
+    client: true
+    default: ''
   revive_through_trust_level:
     client: true
     default: 2
