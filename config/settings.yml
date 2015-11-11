@@ -35,16 +35,25 @@ revive_plugin:
   revive_custom_1_zone_id:
     client: true
     default: ''
+  revive_custom_1_mobile_zone_id:
+    client: true
+    default: ''
   revive_show_custom_2:
     client: true
     default: false
   revive_custom_2_zone_id:
     client: true
     default: ''
+  revive_custom_2_mobile_zone_id:
+    client: true
+    default: ''
   revive_show_custom_3:
     client: true
     default: false
   revive_custom_3_zone_id:
+    client: true
+    default: ''
+  revive_custom_3_mobile_zone_id:
     client: true
     default: ''
   revive_through_trust_level:
