@@ -11,3 +11,6 @@ en:
     revive_topic_bottom_zone_id: 'Zone ID for onderaan topic (728x90)'
     revive_topic_bottom_mobile_zone_id: 'Mobiele zone ID voor onderaan topic (320x50)'
     revive_through_trust_level: 'Toon advertenties voor gebruikers t/m trust level (0 = niet ingelogd... 4 = alle gebruikers)'
+    revive_custom_1_zone_id: 'Custom Zone 1'
+    revive_custom_2_zone_id: 'Custom Zone 2'
+    revive_custom_3_zone_id: 'Custom Zone 3'
